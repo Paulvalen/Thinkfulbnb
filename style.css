@@ -71,11 +71,9 @@ header {
 
 
 .logo {
-<<<<<<< HEAD
+
   display: flex;
   justify-content: center;
-=======
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
   font-family: "Pangolin", cursive;
   font-size: 72px;
   color: #fff;
@@ -108,11 +106,7 @@ header nav ul li a:hover {
 
 
 /* -------  Search Form ------- */
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
 .item-form {
   display: flex;
   flex-direction: row;
@@ -121,24 +115,23 @@ header nav ul li a:hover {
 }
 
 form {
-<<<<<<< HEAD
+
   
   border: 2px solid #ff385c;
   padding: 8px;
-=======
   border: 2px solid #ff385c;
   padding: 10px;
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
+
   
 }
 
 form label {
   display: flex;
-<<<<<<< HEAD
+
   padding-right: 70px;
-=======
+
   padding-right: 80px;
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
+
   font-weight: bold;
   text-align: start;
 }
@@ -157,10 +150,6 @@ select {
 }
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
 form button {
   background-color: #ff385c;
   border: none;
@@ -168,10 +157,7 @@ form button {
   font-size: 24px;
   padding: 15px;
   width: 100%;
-<<<<<<< HEAD
-  
-=======
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
+
 }
 
 /* -------  Footer ------- */
@@ -188,7 +174,7 @@ footer p {
 
 /* -------  Media Query ------- */
 
-<<<<<<< HEAD
+
 
 
 @media all and (max-width:370px){
@@ -202,8 +188,6 @@ footer p {
 
 }
 
-=======
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
 @media all and (min-width: 600px) {
   #stay {
     padding: 0px;
@@ -225,7 +209,7 @@ footer p {
     font-size: 14px;
   }
   .group-stay{
-<<<<<<< HEAD
+
     display: flex;
     flex-direction: column;
   }
@@ -265,8 +249,7 @@ footer p {
 
   form select{
     height: 24px;
-  }
-=======
+  
     flex-direction: column;
   }
   
@@ -290,6 +273,5 @@ footer p {
   margin-bottom: 0px;
   
   }
->>>>>>> 04138f6f2e34b70554ed14d2142adcfe04829157
-  
+
 }
